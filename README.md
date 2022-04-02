@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mårten Ward</h1>
-<h3 align="center">A Software Developer from Sweden with an interest in Mathematics</h3>
+<h3 align="center">Software Developer from Sweden with an interest in Mathematics</h3>
+
+<h4 align="center">Introduction</h4>
+<p align="center">
+Check out my public repositories for inspiration when building REST-apis, utilising databases, using functional languages, experimenting with low level programming and more!
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
